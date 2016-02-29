@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This Software is created under the case study of Teleperformance India, Gurgoan.  
+ * This Software is created under the case study   
  * 
  * Recuritment System is Name as Ultra-recurity
  * Uses PHP SESSIONS, modern password-hashing and salting  a proper login system .
